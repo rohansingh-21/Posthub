@@ -107,13 +107,13 @@ http://localhost:5173
 
 ##  Screenshots
 ### Create Post
-![Create Post](./screenshots/create-post.png)
+![Create Post](./Screenshots/create-post.png)
 
 ### Feed Page
-![Feed](./screenshots/feed.png)
+![Feed](./Screenshots/feed.png)
 
 ### Upload Success
-![Upload](./screenshots/upload-success.png)
+![Upload](./Screenshots/upload-success.png)
 
 
 ---
